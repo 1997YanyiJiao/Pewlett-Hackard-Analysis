@@ -11,3 +11,5 @@
 3. 72458 rows of query returen for unique titles. 
 3. Large numbers of employees will be retiring in the next few years
 ## Summary 
+what join should we use while getting The Number of Retiring Employees by Title?
+![Screenshot (94)](https://user-images.githubusercontent.com/100504550/166137016-102e50ca-5f73-4028-a337-8bd55a3d1f1e.png)
